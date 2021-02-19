@@ -1,0 +1,167 @@
+
+   
+   
+   
+   *{  
+    box-sizing: border-box; 
+} 
+
+
+
+/* Main picture */
+img{ 
+    display:block;
+    margin-left: 0px;
+    margin-right: 0px;
+    
+}  
+
+
+
+
+body{
+    width: 100%;
+}
+
+
+
+article, figure, header{  
+    padding: 0em;
+    background-color:#FFD700;
+    overflow: hidden;
+}
+
+
+/* Left block with hypertext links */
+.div1{
+    width: 14%; 
+    height: 170px; 
+    float:left;
+    top: 16,66%; 
+    background-color:#FFD700;
+    margin-top: 6%; 
+    font-size: smaller;
+    margin-left: 1%; 
+    margin-right: 1%;
+    border-radius: 15px; 
+    text-align: center;
+    font-weight: bold;
+    
+    
+}
+
+
+/* Left block with hypertext links */
+a{
+    text-align: center;
+    font-weight: bold;  
+}
+
+
+
+/* Middle block with description */
+.div2{
+    width: 61%; 
+    height: 63%;
+    color: white;
+    overflow: hidden;
+    font-family: "h2" Satisfy;
+    float:left;
+    text-align: center;
+}
+
+
+/* Middle title: "Votre partenaire déco" */
+#titre{
+    color:#FFD700;
+    font-family: "Algerian";
+    text-decoration: underline;
+    text-align: center;
+}
+
+
+/* Right block (the one with the photo) */
+.div3{
+    width: 20%; 
+    height: 54%; 
+    float:right;
+    margin-right: 1%; 
+    margin-left: 1%;                                  
+    margin-top: 40px; 
+    background-color:#FFD700;
+    border-radius: 15px;
+    text-decoration-color: black;
+    background-image:#FFD700;
+    font-size: 70%;
+    text-align: center;
+}
+
+
+/* Woman photo */
+#fille{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+/* Footer */
+.div4{
+    width: 100%;
+    height: 3,82%; 
+    left: 62,5%; 
+    top: 100%;
+    background-color:#FFD700;
+    text-decoration-color:black;
+    clear:left; 
+    text-align: center;
+}
+
+
+
+article{  
+    width: 100%; 
+    height: 100%; 
+    border: 0px solid black;
+    padding: 0em;  
+    margin: 0px auto;
+    font-family: Verdana, sans-serif;  
+    background-color: black;
+    text-align: justify; 
+    border-right: 250px solid #2F4F4F;
+    border-left: 250px solid #2F4F4F; 
+}
+
+
+/* Main picture */
+
+
+
+
+.header{
+    text-align: center;
+    font-weight: bold;
+    color: #2F4F4F;
+    font-family: "Algerian";
+}
+
+/* Main picture */
+.carrelage{
+    width: 100%; 
+    height: 33%;
+
+}
+                    
+
+
+               
+                
+               
+
+                    
+                    
+
+                    
+ 
+
+                 
